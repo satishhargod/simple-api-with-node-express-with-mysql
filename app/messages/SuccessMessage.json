@@ -1,0 +1,10 @@
+{
+  "login": "You are logged in successfully",
+  "registered": "User registered successfully",
+  "userNotFound":"User not found",
+  "invalidPassword":"Invalid Password",
+  "userAlreadyExist":"User already exist",
+  "userUpdateSuccess":"User updated successfully",
+  "userDisplaySuccess":"User display successfully",
+  "userDeleteSuccess":"User deleted successfully"
+}
